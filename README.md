@@ -5,7 +5,7 @@
 This is my personal portfolio, which includes links to my Linkedin, github projects and repositories and resume.
 In the updated portfolio, I updated my pinned repositories on Github to include screenshots in the READMEs, added examples of the work I've done in the portfolio tab, and added some CSS styling to all of the pages so that they had the same color scheme.
 
-Link to deployed application: <a href="https://marissarrwilson.github.io/Marissa-Portfolio/">https://marissarrwilson.github.io/Marissa-Portfolio/</a>
+Link to deployed application: <a href="https://marissarrwilson.github.io/Updated-Portfolio/">https://marissarrwilson.github.io/Updated-Portfolio/</a>
 
 ## Usage
 
